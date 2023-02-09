@@ -3,12 +3,12 @@ title: "Quarto_R_uah"
 format: html
 editor: visual
 ---
-#Empezamos probando 
-## hacemos un cambio, editando texto
-lkdfjgdkf
+
+#Empezamos probando \## hacemos un cambio, editando texto lkdfjgdkf
 
 me ha salido una rama=rama1
 
+push
 
 ## Quarto
 
